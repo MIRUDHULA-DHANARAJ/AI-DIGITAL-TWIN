@@ -23,11 +23,14 @@ cd AI-DIGITAL-TWIN
 ## 📸 Project Preview
 
 ### 🖥️ AI-Twin Interface (Chatbot View)
-![Chatbot Interface](assets/NOP1.jpg)
+
+![Chatbot Interface](https://github.com/user-attachments/assets/6b3882e4-13c7-4cc4-87c6-65a695d3fb81)
 
 ### 🗓️ Calendar Integration + Weather
-![Calendar + Weather](assets/NOP2.jpg)
+
+![Calendar + Weather](https://github.com/user-attachments/assets/6ec0a456-b2ac-48ae-8243-c6a93a6d6c8c)
 
 ### 🔍 Sentiment Analysis & News Summary
-![Sentiment + News](assets/NOP3.jpg)
+
+![Sentiment + News](https://github.com/user-attachments/assets/0a81f2d3-4252-4091-9af5-9a77573df151)
 
